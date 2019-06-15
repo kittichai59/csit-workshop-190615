@@ -6,6 +6,10 @@ body {
     margin: auto
 }
 
+.label-header {
+    color: red
+}
+
 .menu-header {
     font-weight: bold;
     margin-bottom:0px;
